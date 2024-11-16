@@ -1,4 +1,9 @@
+Hosted link:https://time-travel-alarm-clock.vercel.app/
+Video:https://drive.google.com/open?id=1ff-tQla6J1KtI7YED1woovADghJA6OpY&usp=drive_copy
+
+
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+
 
 # Time Travel Alarm Clock 🎯
 
